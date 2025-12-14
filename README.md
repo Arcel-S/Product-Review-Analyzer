@@ -560,52 +560,8 @@ Jika backend offline, frontend otomatis masuk **Mode Simulasi**:
 
 ---
 
-## 📝 Catatan Pengembang
+## 📄 Pengembangan Aplikasi Web
 
-- Database file (`review.sqlite`) otomatis terbuat saat first run
-- API keys bisa disimpan di .env (development) atau environment variables (production)
-- Frontend menggunakan Axios untuk HTTP requests
-- CORS sudah dikonfigurasi untuk localhost development
+Nama : **Marcel Kevin Togap Siagian (123140054)**
 
----
-
-## 🎓 Tech Insights
-
-### Mengapa Pyramid Framework?
-- Lightweight dan fleksibel untuk REST API
-- Dukungan SQLAlchemy yang mature
-- Mudah konfigurasi CORS untuk SPA
-
-### Mengapa SQLite?
-- Zero configuration (auto-create file)
-- Cocok untuk development
-- Bisa upgrade ke PostgreSQL tanpa ubah kode
-
-### Mengapa React?
-- Component-based architecture
-- Real-time state management
-- Large ecosystem & community
-
-### Mengapa Vite?
-- Ultra-fast build tool
-- Instant HMR (Hot Module Replacement)
-- Production-ready bundling
-
----
-
-## 📄 License
-
-Proyek ini dibuat untuk keperluan **Tugas Akhir Mata Kuliah AI**.
-
----
-
-## 👨‍💻 Author
-
-**Arcel** - Tugas AI (Desember 2025)
-
-Jika ada pertanyaan, silakan hubungi atau buat issue.
-
----
-
-**Built with ❤️ using Python, React, AI, and ☕ Coffee**
-
+Proyek ini dibuat untuk keperluan **Tugas Individu 3 - PAW**.
