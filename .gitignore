@@ -1,0 +1,41 @@
+# Environment Variables (IMPORTANT - API Keys dan Secrets)
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Database (optional - uncomment if needed)
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Build outputs
+/backend/backend_ai/dist/
+/frontend/dist/
